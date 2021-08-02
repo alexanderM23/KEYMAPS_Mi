@@ -1,0 +1,210 @@
+*\\
+Musi-(c)shy shortcut system free energy rule diagram. (by Aleksandr Mamajevs, aleksandr2@posteo.ie)
+To see all diagram better, just zoom out the text (make it a bit smaller).
+
+This is the addition to my first 'TAB' (Autohotkey Tan-Tadi-Taz-TaLa) script.
+This diagram should improve a little bit the work of anybody with the keyboard's keys.
+Do (Q): is good for work with closest numbers and all F1 - F6,
+when Mi (M): is good for if your hand is busy with a pencil.
+Note:
+The keyboard's Keys names to Music Keys names transformation (Just those, I've mentioned) would improve the process of remembering of many key combinations. 
+*\\
+
+----
+
+Left Hand	Keystroke	Mi (M)	AL (ALT) - Mi (M)	CON - Mi (M)	SHI - Mi (M)	AL - SHI - Mi (M)	AL - CON - Mi (M)	CON - SHI - Mi (M)	AL - CON - SHI - Mi (M)	Popup menu		TAB	CAPSLOCK		KEYMAPS_Mi									
+																								
+	Q (Qdo: or Do:)	see next table		see next table		see next table		see next table		see next table			see next table											
+																								
+	W																							
+																								
+	E																							
+																								
+	R																							
+																								
+	T																							
+																								
+	Y																							
+																								
+	U																							
+																								
+																								
+	A																							
+																								
+	S																							
+																								
+	D (Di:)																							
+																								
+	F																							
+																								
+	G																							
+																								
+	H																							
+																								
+	J																							
+																								
+																								
+	Z																							
+																								
+	X																							
+																								
+	C																							
+																								
+	V																							
+																								
+	B																							
+																								
+	Spacebar																							
+																								
+																								
+Right Hand	I (Ai:)																							
+																								
+	O																							
+																								
+	P																							
+																								
+	[																							
+																								
+	]																							
+																								
+	"""\"" (backslash)"																							
+																								
+	INSERT																							
+																								
+	HOME																							
+																								
+	DELETE																							
+																								
+	END																							
+																								
+	PAGE UP																							
+																								
+	PAGE DOWN																							
+																								
+																								
+Right Hand	K																							
+																								
+	L																							
+																								
+	""";"""																							
+																								
+	""" ' """																							
+																								
+																								
+Right Hand	N																							
+																								
+	M (Mi:)	works as Shi:		works as Shi:		works as Shi:		works as Shi:		works as Shi:			works as Shi:											
+																								
+	""","" (comma)"																							
+																								
+	"""."" (dot)"																							
+																								
+	"""/"" (slash)"																							
+																								
+	UP ARROW																							
+																								
+	DOWN ARROW																							
+																								
+	LEFT ARROW																							
+																								
+	RIGHT ARROW																							
+																								
+																								
+Top Row	TAB																							
+																								
+	"""`"" (backtick, tilde)"																							
+																								
+	Top1																							
+																								
+	Top2																							
+																								
+	Top3																							
+																								
+	Top4																							
+																								
+	Top5																							
+																								
+	Top6																							
+																								
+	Top7																							
+																								
+	Top8																							
+																								
+	Top9																							
+																								
+	Top0																							
+																								
+	"""-"""																							
+																								
+	"""="" (""+"")"																							
+																								
+	BackSpace																							
+																								
+	Enter																							
+																								
+																								
+Numpad	Num1																							
+																								
+	Num2																							
+																								
+	Num3																							
+																								
+	Num4																							
+																								
+	Num5																							
+																								
+	Num6																							
+																								
+	Num7																							
+																								
+	Num8																							
+																								
+	Num9																							
+																								
+	Num0																							
+																								
+	"""/"" (slash Num)"																							
+																								
+	"""*"" (Multipl.)"																							
+																								
+	Enter																							
+																								
+	"""+"""																							
+																								
+	"""-"""																							
+																								
+	"""."" (Dot, Num)"																							
+																								
+																								
+Drag in Viewport (with hold a Key)																								
+																								
+Drag in Window2																								
+																								
+Right MB																								
+																								
+																								
+Top Row	Esc																							
+																								
+	F1																							
+																								
+	F2																							
+																								
+	F3																							
+																								
+	F4																							
+																								
+	F5																							
+																								
+	F6																							
+																								
+	F7																							
+																								
+	F8																							
+																								
+	F9																							
+																								
+	F10																							
+																								
+	F11																							
+																								
+	F12																							
