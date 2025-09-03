@@ -1,5 +1,5 @@
 # KEYMAPS_Mi
-Musi-(c)shy shortcut system free energy rule diagram. (by Aleksandr Mamajevs, aleksandr2@posteo.ie)
+Musi-(c)shy shortcut system free energy rule diagram. (by Aleksander Mamajevs)
 To see all diagram better, just zoom out the text (make it a bit smaller).
 
 This is the addition to my first 'TAB' (Autohotkey Tan-Tadi-Taz-TaLa) script.
