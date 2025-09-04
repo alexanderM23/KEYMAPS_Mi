@@ -1,16 +1,38 @@
-*\\
-Musi-(c)shy shortcut system free energy rule diagram. (by Aleksandr Mamajevs, aleksandr2@posteo.ie)
-To see all diagram better, just zoom out the text (make it a bit smaller).
+; ================================================================================
+; KEYMAPS_Mi - Musi-(c)shy Shortcut System
+; by Aleksandrs M. Orrin (aka r.n. Aleksander Mamajevs)
+; ================================================================================
+;
+; DESCRIPTION:
+; Speed-optimized keyboard system using musical mnemonics.
+; Addition to the TAB (Tan-Tadi-Taz-TaLa) script.
+;
+; CONCEPT:
+; Inspired by 3D modeling in Modo™ (Foundry), where base + modifier keys
+; functionality transformed my workflow. Now bringing that musical coding 
+; style to keyboard mapping systems.
+;
+; KEY MAPPING:
+; • Do (Q) → Numbers & F1-F6 (left hand free)
+; • Mi (M) → When holding stylus/pencil (right hand busy)
+;
+; DIAGRAM:
+; The keyboard diagram was exported from Microsoft Excel™.
+; You can import it back to Excel and immediately start filling it
+; with your own commands and key bindings - very convenient!
+; Try it yourself for visual mapping of your shortcuts.
+;
+; BENEFIT:
+; Musical key names = 2-3x better memorization
+; Rhythm patterns stick better than arbitrary combinations
+;
+; Addition to the TAB (Tan-Tadi-Taz-TaLa) script.
+; See: https://github.com/alexanderM23/autohotkey-copy-paste-tantadtaz
+;
+; TIP: Zoom out (Ctrl + Mouse Wheel) to see full diagram
+;
+; ================================================================================
 
-This is the addition to my first 'TAB' (Autohotkey Tan-Tadi-Taz-TaLa) script.
-This diagram should improve a little bit the work of anybody with the keyboard's keys.
-Do (Q): is good for work with closest numbers and all F1 - F6,
-when Mi (M): is good for if your hand is busy with a pencil.
-Note:
-The keyboard's Keys names to Music Keys names transformation (Just those, I've mentioned) would improve the process of remembering of many key combinations. 
-*\\
-
-----
 
 Left Hand	Keystroke	Mi (M)	AL (ALT) - Mi (M)	CON - Mi (M)	SHI - Mi (M)	AL - SHI - Mi (M)	AL - CON - Mi (M)	CON - SHI - Mi (M)	AL - CON - SHI - Mi (M)	Popup menu		TAB	CAPSLOCK		KEYMAPS_Mi									
 																								
